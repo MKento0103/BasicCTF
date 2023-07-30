@@ -1,0 +1,4 @@
+宝は以下のパスに隠されている．
+
+stage1/treasurehunt1/A/../B/./C
+
