@@ -1,1 +1,0 @@
-flag{keep_it_up}
