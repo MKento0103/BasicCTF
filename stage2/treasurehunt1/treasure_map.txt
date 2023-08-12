@@ -1,0 +1,4 @@
+The treasure is hidden in the path．
+
+stage2/treasurehunt1/A/../B/./C
+
